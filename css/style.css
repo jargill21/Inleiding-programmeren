@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.titel{
+    color: white;
+    font-size: 1.5em;
+}
+
+
+
+#smile{
+    width: 23em;
+    margin: 0.2em;
+}
+
+.container{
+    text-align: center;
+}
+
+.btn{
+    border: 5px solid blue;
+    margin: 2em;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+footer{
+    color: white;
+}
